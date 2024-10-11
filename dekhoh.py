@@ -189,7 +189,7 @@ demiuk.append({
 
 demiuk.append({
     'dekanh':'(先拂细节)蓝色陶瓦是哪条矿铁线的代表材料？\nA.2号线\nB.3号线\nC.5号线\nD.15号线',
-    'topqanh':'D',
+    'topqanh':'C',
     'krexsek':'A：蓝色混凝土。\nB：淡蓝色混凝土。\nC：蓝色陶瓦。\nD：淡蓝色陶瓦。'
 })
 
